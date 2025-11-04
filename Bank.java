@@ -1,4 +1,4 @@
-//Ryan Tsui CS210 - Project 2
+//Ryan Tsui Bank System Project
 package project.project2;
 import java.util.*;
 public class Bank {
