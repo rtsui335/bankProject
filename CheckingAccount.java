@@ -1,5 +1,5 @@
 package project.project2;
-//Ryan Tsui CS210 - Project 2
+//Ryan Tsui Bank Project
 public class CheckingAccount extends BankAccount {
     private double overDraftLimit;
     public CheckingAccount(String accountNumber, String accountType, double balance) {
