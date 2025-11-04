@@ -1,5 +1,5 @@
 package project.project2;
-//Ryan Tsui CS210 - Project 2
+//Ryan Tsui Bank Project
 public abstract class BankAccount {
     double balance;
     final String accountNumber;
