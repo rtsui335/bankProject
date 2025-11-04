@@ -1,5 +1,5 @@
 package project.project2;
-//Ryan Tsui CS210 - Project 2
+//Ryan Tsui Bank Project
 class SavingAccount extends BankAccount{
     private static final double INTEREST_RATE = 2.5;
     public SavingAccount(String accountNumber, String accountType, double balance){
