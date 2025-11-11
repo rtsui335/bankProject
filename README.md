@@ -2,7 +2,7 @@
 
 # Bank Management System (Java)
 
-This is project a project that I have worked on which is a console-based Bank Management System written in Java.  
+This is project that I have worked on which is a console-based Bank Management System written in Java.  
 It allows users to manage two different types of bank accounts (checking and savings) through a text-based menu.  
 The program demonstrates object-oriented programming concepts such as inheritance, encapsulation, and polymorphism, and uses Java’s built-in Scanner class for user input.
 
